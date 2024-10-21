@@ -27,7 +27,7 @@ namespace ISNP205923_Bloque1__4_
                     if (numero == 0) // Condición de salida
                     {
                         Console.WriteLine("Programa terminado.");
-                        break; // Salir del ciclo si el número es 0
+                        break; // Para salir del ciclo si el número es 0
                     }
 
                     if (numero <= 1)

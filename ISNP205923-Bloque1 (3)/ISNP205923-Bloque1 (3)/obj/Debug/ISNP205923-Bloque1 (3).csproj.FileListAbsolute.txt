@@ -1,0 +1,6 @@
+C:\Users\Mariela Perez\Desktop\Programacion I\ISNP205923-Bloque1 (3)\ISNP205923-Bloque1 (3)\bin\Debug\ISNP205923-Bloque1 (3).exe.config
+C:\Users\Mariela Perez\Desktop\Programacion I\ISNP205923-Bloque1 (3)\ISNP205923-Bloque1 (3)\bin\Debug\ISNP205923-Bloque1 (3).exe
+C:\Users\Mariela Perez\Desktop\Programacion I\ISNP205923-Bloque1 (3)\ISNP205923-Bloque1 (3)\bin\Debug\ISNP205923-Bloque1 (3).pdb
+C:\Users\Mariela Perez\Desktop\Programacion I\ISNP205923-Bloque1 (3)\ISNP205923-Bloque1 (3)\obj\Debug\ISNP205923-Bloque1 (3).csproj.CoreCompileInputs.cache
+C:\Users\Mariela Perez\Desktop\Programacion I\ISNP205923-Bloque1 (3)\ISNP205923-Bloque1 (3)\obj\Debug\ISNP205923-Bloque1 (3).exe
+C:\Users\Mariela Perez\Desktop\Programacion I\ISNP205923-Bloque1 (3)\ISNP205923-Bloque1 (3)\obj\Debug\ISNP205923-Bloque1 (3).pdb

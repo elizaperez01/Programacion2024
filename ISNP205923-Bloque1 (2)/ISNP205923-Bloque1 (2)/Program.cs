@@ -11,11 +11,11 @@ namespace ISNP205923_Bloque1__2_
         static void Main(string[] args)
         {
             int numero;
-            int number;
-            Console.WriteLine("******************************************");
-            Console.WriteLine("*  Bienvenido al Mundo de Las Tablas de Multiplicar  *");
-            Console.WriteLine("******************************************");
-            Console.WriteLine();
+          
+            Console.WriteLine("*****************************************************");
+            Console.WriteLine("*  Bienvenido al Mundo de Las Tablas de Multiplicar *");
+            Console.WriteLine("*****************************************************");
+            Console.WriteLine(); // linea en blanco
 
             do
             {
@@ -24,6 +24,7 @@ namespace ISNP205923_Bloque1__2_
 
                 if (numero >= 1 && numero <= 10)
                 {
+                    Console.WriteLine();
                     Console.WriteLine($"Tabla de multiplicar del {numero}:");
                     for (int i = 1; i <= 10; i++)
                     {
@@ -32,6 +33,7 @@ namespace ISNP205923_Bloque1__2_
                 }
                 else if (numero != 0)
                 {
+                    Console.WriteLine();
                     Console.WriteLine("Por favor, ingresa un número válido entre 1 y 10.");
                 }
 

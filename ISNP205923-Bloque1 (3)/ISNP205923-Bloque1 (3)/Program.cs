@@ -22,6 +22,7 @@ namespace ISNP205923_Bloque1__3_
                 Console.Write("Ingresa un número positivo: ");
                 Console.WriteLine();
                 Console.WriteLine("Ingresa 0 o un número negativo para salir.");
+
                 num = Convert.ToInt32(Console.ReadLine());
 
                 if (num > 0)
